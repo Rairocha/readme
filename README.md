@@ -12,7 +12,7 @@
   - Visualization
 # Technologies 
 
-  List with used technoligies, ex:
+  List with used technologies, ex:
   - Python
   - Pandas
   - MySQL
