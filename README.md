@@ -21,7 +21,7 @@
   Paragraph with a description of the dataset, sources, characteristics ,etc.
 
 # Steps
-  Add here any insights you had durring the project
+  Add here any insights you had during the project
 
 # Conclusion
   Final conclusion
